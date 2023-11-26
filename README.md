@@ -3,6 +3,7 @@
 * About Project:
   
   * Data Structures and Algorithms
+  * Mình dự định đây sẽ là repo tổng hợp và giải thích các cấu trúc dữ liệu, thuật toán 
     
 * About Me:
 
