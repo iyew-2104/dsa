@@ -1,8 +1,9 @@
 #### **Giới thiệu**
 
 * About Project:
-
-  * ...
+  
+  * Data Structures and Algorithms
+    
 * About Me:
 
   * Facebook: https://facebook.com/yew210.4
